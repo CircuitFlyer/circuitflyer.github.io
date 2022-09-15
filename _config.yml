@@ -108,7 +108,7 @@ defaults:
     values:
       layout: splash
       header:
-        image: "/assets/images/bio-photo.jpg"
+        image: "/assets/images/upsplash-image-1.jpg"
       author_profile: true
 
 category_archive:
