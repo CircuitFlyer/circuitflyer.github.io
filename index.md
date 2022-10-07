@@ -24,7 +24,7 @@ a timer project for the 21 century.
  </span>
 
  <span class="fs-8">
-[Link button](http://circuitflyer.com/){: .btn }
+[Touch_and_Go Timer](http://circuitflyer.com/){: .btn }
 </span>
 
 Default label
