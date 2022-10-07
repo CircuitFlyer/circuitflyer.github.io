@@ -28,7 +28,7 @@ a timer project for the 21 century.
  <span class="fs-6">
  Coming soon!
 {: .label .label-yellow }
-</span>
+
 
 {: .warning }
 >Warning - Watch for
