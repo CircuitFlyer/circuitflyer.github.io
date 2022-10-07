@@ -31,7 +31,7 @@ a timer project for the 21 century.
 </span>
 
 {: .warning }
-Warning - Watch for
+>Warning - Watch for
 
 ![](/assets/images/2276.jpeg)
 
