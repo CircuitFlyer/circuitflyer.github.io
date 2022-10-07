@@ -19,16 +19,14 @@ a timer project for the 21 century.
 
 > ## I'd like to think of it as **electric control line for the 21st century**
 
- <span class="fs-2">
- <button type="button" name="button" class="btn">Button Title</button>
- </span>
 
- <span class="fs-8">
-[Touch_and_Go Timer](http://circuitflyer.com/){: .btn }
+
+ <span class="fs-7">
+[Click Here for Touch_and_Go Timer Project Details](http://circuitflyer.com/){: .btn }
 </span>
 
-Default label
-{: .label }
+Coming soon
+{: .label .label-yellow }
 
 
 ![](/assets/images/2276.jpeg)
