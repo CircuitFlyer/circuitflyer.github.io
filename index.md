@@ -22,7 +22,7 @@ a timer project for the 21 century.
 
 
  <span class="fs-7">
-[Click Here for Touch_and_Go Timer Project Details](http://circuitflyer.com/){: .btn }
+[Click Here for Touch_and_Go Timer Project Details](http://circuitflyer.com/){: .btn .btn-green}
 </span>
 
 Coming soon
