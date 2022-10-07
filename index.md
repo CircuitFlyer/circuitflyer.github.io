@@ -18,11 +18,14 @@ These projects are based around popular off-the-shelf microcontroller developmem
 a timer project for the 21 century.
 
 > ## I'd like to think of it as **electric control line for the 21st century**
+
  <span class="fs-8">
  <button type="button" name="button" class="btn">Button Title</button>
  </span>
 
-[Link button](http://example.com/){: .btn }
+ <span class="fs-8">
+[Link button](http://circuitflyer.com/){: .btn }
+</span>
 
 Default label
 {: .label }
