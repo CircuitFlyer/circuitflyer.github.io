@@ -10,7 +10,7 @@ nav_order: 1
 
 <br>
 
-**Listed below are some of my open source projects that you can build for yourself.  Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
+**Listed below are some of my open source projects that you can build for yourself.  Using popular off-the-shelf microcontroller development boards that are easy to assemble and even easier to program.**
 
 ___
 
@@ -24,17 +24,14 @@ ___
 
 ___
 
-## Advanced timer
+## Advanced Timer
 
 **The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some great additional features.**<br>
 
  <span class="fs-6">
  Coming soon!
-{: .label .label-yellow .mx-auto }
+{: .label .label-yellow .text-center }
 ___
-
-{: .warning }
->Warning - Watch for
 
 ![](/assets/images/2276.jpeg)
 
