@@ -5,15 +5,12 @@ nav_order: 1
 
 ## Welcome to the CircuitFlyer Home Page
 
-**Where my electronics hobby projects intersect with electric control line model airplanes**
+### **This is where I share some of my electronics hobby projects related to electric powered control line model airplanes**
 
-I'd like to share some of my electronics hobby projects with fellow electric control line flying enthusiasts.
 
-Here you will find some of my electronic hobby projects that you can build.
+**Listed below are some of my open source projects that you can build for yourself.**
 
-Listed below are some of my open source electronic hobby projects that you can build for yourself.
-
-These projects are based around popular off-the-shelf microcontroller development boards that are easy to assemble and even easier to program
+**These utilise popular off-the-shelf microcontroller development boards that make them easy to assemble and even easier to program.**
 
 a timer project for the 21 century.
 
