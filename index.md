@@ -14,9 +14,9 @@ nav_order: 1
 
 ___
 
-## Basic Timer
+## A Basic Timer
 
-**The Touch_and_Go timer is a very low cost simple timer that is easy to make and install with minimal components.  It's easy to operate and covers all of the requirements to get you in the air quickly.**<br>
+**The *Touch_and_Go* timer is a very low cost simple timer that is easy to make and install with minimal components.  It's easy to operate and covers all of the requirements to get you in the air quickly.**<br>
 
  <span class="fs-6">
 [Click Here for **Touch_and_Go** Timer Project Details](http://circuitflyer.com/){: .btn .btn-green}
@@ -24,9 +24,9 @@ ___
 
 ___
 
-## Advanced Timer
+## An Advanced Timer
 
-**The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some great additional features.**<br>
+**The *Climb_and_Dive* timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some great additional features.**<br>
 
  <span class="fs-7">
  Coming soon!
