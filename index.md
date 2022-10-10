@@ -27,13 +27,11 @@ ___
 
 ## Advanced timer
 
-**The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit boar.  This not only simplifies wiring but allows for some additional features.<br>
+**The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit boar.  This not only simplifies wiring but allows for some great additional features.**<br>
 
  <span class="fs-6">
  Coming soon!
 {: .label .label-yellow }
-Where does this text end up
-
 ___
 
 {: .warning }
