@@ -13,7 +13,7 @@ nav_order: 1
 **Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
 
 a timer project for the 21 century.
-{: .mx-auto}
+{: .mx-auto }
 
 > ## I'd like to think of it as **electric control line for the 21st century**
 
