@@ -13,8 +13,6 @@ nav_order: 1
 
 **Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
 
-a timer project for the 21 century.
-{: .mx-auto }
 
 ## Basic Timer
 
@@ -34,4 +32,4 @@ The Touch_and_Go timer is a very low cost simple timer that is easy to make and 
 
 ![](/assets/images/2276.jpeg)
 
-"I'd like to think of it as electric control line for the 21st century"
+*Electric control line for the 21st century*
