@@ -13,10 +13,11 @@ nav_order: 1
 
 **Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
 
+___
 
 ## Basic Timer
 
-The Touch_and_Go timer is a very low cost simple timer that is easy to make and install with minimal components.  It's easy to operate and covers all of the requirements to get you in the air quickly.<br>
+**The Touch_and_Go timer is a very low cost simple timer that is easy to make and install with minimal components.  It's easy to operate and covers all of the requirements to get you in the air quickly.**<br>
 
  <span class="fs-6">
 [Click Here for Touch_and_Go Timer Project Details](http://circuitflyer.com/){: .btn .btn-green}
