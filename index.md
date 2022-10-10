@@ -8,7 +8,6 @@ nav_order: 1
 ### **This is where I share some of my electronics hobby projects related to electric powered control line model airplanes**
 
 <br>
-<br>
 
 **Listed below are some of my open source projects that you can build for yourself.**
 
@@ -17,9 +16,9 @@ nav_order: 1
 a timer project for the 21 century.
 {: .mx-auto }
 
-> ## I'd like to think of it as **electric control line for the 21st century**
+## Basic Timer
 
-
+The Touch_and_Go timer is a very low cost simple timer that is easy to make and install with minimal components.  It's easy to operate and covers all of the requirements to get you in the air quickly.<br>
 
  <span class="fs-6">
 [Click Here for Touch_and_Go Timer Project Details](http://circuitflyer.com/){: .btn .btn-green}
@@ -35,4 +34,4 @@ a timer project for the 21 century.
 
 ![](/assets/images/2276.jpeg)
 
-Add more text here.
+"I'd like to think of it as electric control line for the 21st century"
