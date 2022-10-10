@@ -1,9 +1,10 @@
 title: "Remote theme example"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
-search_enabled: true
+search_enabled: false
 logo: "/assets/images/CircuitFlyer.png"
 callouts:
   warning:
     title: Warning
     color: red
+heading_anchors: false
