@@ -7,7 +7,8 @@ nav_order: 1
 
 ### **This is where I share some of my electronics hobby projects related to electric powered control line model airplanes**
 
-
+<br>
+<br>
 **Listed below are some of my open source projects that you can build for yourself.**
 
 **Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
