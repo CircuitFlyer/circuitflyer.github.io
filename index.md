@@ -4,14 +4,13 @@ nav_order: 1
 ---
 
 ## Welcome to the CircuitFlyer Home Page
+{: .text-center }
 
 ### **This is where I share some of my electronics hobby projects related to electric powered control line model airplanes**
 
 <br>
 
-**Listed below are some of my open source projects that you can build for yourself.**
-
-**Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
+**Listed below are some of my open source projects that you can build for yourself.  Using popular off-the-shelf microcontroller development boards they are easy to assemble and even easier to program.**
 
 ___
 
@@ -27,11 +26,11 @@ ___
 
 ## Advanced timer
 
-**The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit boar.  This not only simplifies wiring but allows for some great additional features.**<br>
+**The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some great additional features.**<br>
 
  <span class="fs-6">
  Coming soon!
-{: .label .label-yellow }
+{: .label .label-yellow .mx-auto }
 ___
 
 {: .warning }
