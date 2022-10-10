@@ -23,10 +23,12 @@ ___
 [Click Here for Touch_and_Go Timer Project Details](http://circuitflyer.com/){: .btn .btn-green}
 </span>
 
+___
+
  <span class="fs-6">
  Coming soon!
 {: .label .label-yellow }
-
+Where does this text end up
 
 {: .warning }
 >Warning - Watch for
