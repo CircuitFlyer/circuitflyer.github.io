@@ -7,4 +7,3 @@ callouts:
   warning:
     title: Warning
     color: red
-theme: "just-the-docs"
