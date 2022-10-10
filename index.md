@@ -25,10 +25,16 @@ ___
 
 ___
 
+## Advanced timer
+
+**The Climb_and_Dive timer builds on the simple timer concept by adding an additional circuit boar.  This not only simplifies wiring but allows for some additional features.<br>
+
  <span class="fs-6">
  Coming soon!
 {: .label .label-yellow }
 Where does this text end up
+
+___
 
 {: .warning }
 >Warning - Watch for
@@ -36,3 +42,4 @@ Where does this text end up
 ![](/assets/images/2276.jpeg)
 
 *Electric control line for the 21st century*
+{: .text-center }
