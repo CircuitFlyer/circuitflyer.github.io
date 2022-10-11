@@ -10,7 +10,7 @@ nav_order: 1
 
 <br>
 
-**Listed below are some of my open source projects that you can build for yourself.  Using popular off-the-shelf microcontroller development boards, they are easy to assemble and even easier to program.**
+**Listed below are some open source projects that you can build for yourself.  Using popular off-the-shelf microcontroller development boards, they are easy to assemble and even easier to program.**
 
 ___
 
