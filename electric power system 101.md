@@ -3,6 +3,8 @@ title: "Electric Power System 101"
 nav_order: 3
 ---
 
+## Electric Control Line 101
+{: .text-center }
 
 If you are new to electric powered control line here is a very brief simplified overview of how it all works.<br>
 
