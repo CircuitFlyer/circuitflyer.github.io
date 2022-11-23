@@ -10,7 +10,7 @@ If you are new to electric powered control line here is a very brief simplified 
 
 ## Motor
 
-The motor of choice is a brushless out-runner motor.  In a brushless motor the commutation of the current to the motor windings takes place outside the motor by a separate electronic device called an electronic speed controller or ESC for short.  In an out-runner motor the rotors permanent magnets rotate around the outside of the stationary copper motor windings and iron core.  The motor has three wires, one for each set of windings, connected to the ESC with 'bullet' style connectors.<br>
+The motor of choice is a brushless out-runner motor.  In a brushless motor the commutation of the current to the motor windings takes place outside the motor by a separate electronic device called an electronic speed controller or ESC for short.  In an out-runner motor the rotors permanent magnets rotate around the outside of a stationary iron core with copper motor windings.  The motor has three wires, one for each set of windings, connected to the ESC with 'bullet' style connectors.<br>
 
 ## Battery
 
