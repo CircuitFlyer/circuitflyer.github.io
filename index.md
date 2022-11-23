@@ -26,7 +26,7 @@ ___
 
 ## An Advanced Timer
 
-**The *Climb_and_Dive* timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some great additional features.**<br>
+**The *Climb_and_Dive* timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some amazing features not found in any other timer.**<br>
 
  <span class="fs-7">
  Coming soon!
