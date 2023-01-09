@@ -33,7 +33,6 @@ ___
  </span>
  
 ___
-<br>
 
 ![](/assets/images/2276.jpeg)
 
