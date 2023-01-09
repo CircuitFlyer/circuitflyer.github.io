@@ -28,9 +28,9 @@ ___
 
 **The *Climb_and_Dive* timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some amazing features not found in any other timer.**<br>
 
- <span class="fs-7">
- Coming soon!
-{: .label .label-yellow }
+ <span class="fs-6">
+ [Click Here for **Climb_and_Dive** Timer Project Details](https://circuitflyer.com/Climb_and_Dive/){: .btn .btn-blue}
+ </span>
 ___
 
 ![](/assets/images/2276.jpeg)
