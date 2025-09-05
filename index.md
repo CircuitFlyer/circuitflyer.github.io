@@ -3,35 +3,37 @@ title: "Home"
 nav_order: 1
 ---
 
-## Welcome to the CircuitFlyer Home Page
-{: .text-center }
+![](/assets/images/CircuitFlyer Home Page Image 2.png)
 
-### **This is where I share some of my electronics hobby projects related to electric powered control line model airplanes**
+**CircuitFlyer** is a specialized manufacturer of programmable electronics hardware designed specifically for the control line aviation hobby. Founded and operated by Paul Emmerson, the company bridges the gap between cutting-edge microcontroller technology and the practical needs of control line model aircraft enthusiasts.
 
-<br>
+CircuitFlyer is committed to fostering innovation within the control line community through open source development. I encourage collaboration, modification, and enhancement of my designs, believing that shared knowledge strengthens the entire hobby ecosystem.
 
-**Listed below are some open source projects that you can build for yourself.  Using popular off-the-shelf microcontroller development boards, they are easy to assemble and even easier to program.**
+Recognizing that cost barriers can limit participation, my mission includes developing high-quality solutions at accessible price points, ensuring that advanced timer capabilities are available to newcomers and experienced flyers alike.
+
+---
+
+## Climb_and_Dive Timer - An Advanced Control Line Timer
+
+**Take your airplane flight performance to a new level. The *Climb_and_Dive* timer is an innovative combination of a governor timer and an active timer.  Cutting edge wireless programming via Bluetooth!  Currently used by hundreds of flyers around the world from novices to skilled competitors.**<br>
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://circuitflyer.com/Climb_and_Dive/" class="btn btn-purple" style="padding: 8px 16px; font-size: 20px;" target="_blank">Learn More</a>
+  <a href="https://www.tindie.com/products/circuitflyer/climb_and_dive-an-advanced-control-line-timer/" class="btn btn-blue" style="padding: 8px 16px; font-size: 20px;" target="_blank">Buy Now</a>
+</div>
 
 ___
 
-## A Basic Timer
+## Touch_and_Go - A Basic Timer
 
-**The *Touch_and_Go* timer is a very low cost simple timer that is easy to make and install with minimal components.  It's easy to operate and covers all of the requirements to get you in the air quickly.**<br>
+**The *Touch_and_Go* is a simple low cost timer that has all of the necessary features to get you in the air quickly. It is presented as an easy create your own project with minimal components.  It's easy to operate, covers all the basics and is very affordable.  Perfect for anyone that wants to get started in electric powered control line.**<br>
 
- <span class="fs-6">
-[Click Here for **Touch_and_Go** Timer Project Details](https://circuitflyer.com/Touch_and_Go/){: .btn .btn-green}
-</span>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://circuitflyer.com/Touch_and_Go/" class="btn btn-purple" style="padding: 8px 16px; font-size: 20px;" target="_blank">Learn More</a>
+  <a href="https://www.adafruit.com/product/3500" class="btn btn-blue" style="padding: 8px 16px; font-size: 20px;" target="_blank">Buy Now</a>
+</div>
 
-___
-
-## An Advanced Timer
-
-**The *Climb_and_Dive* timer builds on the simple timer concept by adding an additional circuit board.  This not only simplifies wiring but allows for some amazing features not found in any other timer.  Wireless programming via Bluetooth!**<br>
-
- <span class="fs-6">
- [Click Here for **Climb_and_Dive** Timer Project Details](https://circuitflyer.com/Climb_and_Dive/){: .btn .btn-blue}
- </span>
- 
 ___
 
 ![](/assets/images/2276.jpeg)
