@@ -36,7 +36,7 @@ ___
 
 ___
 
-![](/assets/images/2276.jpeg)
+![](/assets/images/Brent_Williams.jpeg)
 
 *Electric control line for the 21st century*
 {: .text-center }
