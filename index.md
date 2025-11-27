@@ -1,5 +1,6 @@
 ---
 title: "Home"
+layout: home
 nav_order: 1
 ---
 
@@ -20,7 +21,7 @@ Recognizing that cost barriers can limit participation, my mission includes deve
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://circuitflyer.com/Climb_and_Dive/" class="btn btn-purple" style="padding: 8px 16px; font-size: 20px;" target="_blank">Learn More</a>
-  <a href="https://www.tindie.com/products/circuitflyer/climb_and_dive-an-advanced-control-line-timer/" class="btn btn-blue" style="padding: 8px 16px; font-size: 20px;" target="_blank">Buy Now</a>
+  <a href="https://lectronz.com/products/climb_and_dive" class="btn btn-blue" style="padding: 8px 16px; font-size: 20px;" target="_blank">Buy Now</a>
 </div>
 
 ___
