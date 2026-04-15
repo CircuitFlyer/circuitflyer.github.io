@@ -37,6 +37,17 @@ ___
 
 ___
 
+## Control_Panel - A Remote Timer Interface
+
+**The *Control_Panel* is a start switch and super bright status indicator LED mounted on a small printed circuit board. The LED is visible from 60 ft away even on a sunny day. It is intended to simplify the installation of a remotely mounted user interface for use with CircuitFlyer inspired active/governor timer systems.  Versions are available to suit either full fuselage or profile fuselage aircraft designs.**<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://circuitflyer.com/Control_Panel/" class="btn btn-purple" style="padding: 8px 16px; font-size: 20px;" target="_blank">Learn More</a>
+  <a href="https://lectronz.com/products/control_panel" class="btn btn-blue" style="padding: 8px 16px; font-size: 20px;" target="_blank">Buy Now</a>
+</div>
+
+___
+
 ![](/assets/images/Brent_Williams.jpeg)
 
 *Electric control line for the 21st century*
